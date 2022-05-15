@@ -24,7 +24,7 @@ translateText(lyrics, 'en')
         console.log(err);
     });
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 8080 ||5000;
 
 app.use('/', express.static('frontend'))
 
