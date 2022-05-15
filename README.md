@@ -148,3 +148,4 @@ In final, avem un exemplu al interfetei atunci cand nu sunt gasite versurile pie
 * [Lyrics.ohv API](https://lyricsovh.docs.apiary.io/#)
 * [Cloud Translation API](https://cloud.google.com/translate)
 * [Cloud Translation documentation](https://medium.com/analytics-vidhya/how-to-use-google-cloud-translation-api-with-nodejs-6bdccc0c2218)
+* [Amazon Cloud9](https://en.wikipedia.org/wiki/Cloud9_IDE)
