@@ -124,6 +124,10 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 });
 ```
+## Publicare aplicatie
+Pentru publicarea aplicatiei, am utilizat serviciul Cloud9 de la Amazon. Am incarcat aplicatia pe baza repository-ului de pe GitHub si am rulat-o, observandu-de in imaginea de mai jos ca server-ul ruleaza pe portul 8080.
+![Publicare aplicatie Cloud9](https://github.com/cmihaila99/CloudComputing-Proiect/blob/main/aplicatie%20cloud9.png)
+
 ## Capturi ecran aplicație
 Interfata aplicatiei consta intr-o pagina ca contine initial doar un input text unde se va introduce numele piesei sau al astistului si un buton pentru cautare.
 ![Interfata aplicatie](https://github.com/cmihaila99/CloudComputing-Proiect/blob/main/capturi%20aplicatie/interfata.png)
