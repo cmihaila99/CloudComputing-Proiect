@@ -1,5 +1,7 @@
 # CloudComputing-Proiect
 
+* [Link prezentare](https://youtu.be/prDK1yrjw1Q)
+
 # Documentatie aplicatie
 
 ## Introducere
