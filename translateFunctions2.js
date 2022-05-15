@@ -4,7 +4,6 @@ require('dotenv').config();
 const CREDENTIALS = JSON.parse(process.env.CREDENTIALS);
 
 
-// Configuration for the client
 const translate = new Translate({
     credentials: CREDENTIALS,
     projectId: CREDENTIALS.project_id

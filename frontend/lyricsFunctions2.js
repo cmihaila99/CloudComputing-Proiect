@@ -23,7 +23,6 @@ async function beginSearch(searchValue) {
     const searchResult = await fetch(`${apiURL}/suggest/${searchValue}`);
     const data = await searchResult.json();
 
-    
     displayData(data);
     
 }
