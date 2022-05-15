@@ -12,7 +12,7 @@ Cloud Computing ne permite să conectăm orice este digital în zilele noastre. 
 Este ușor de înțeles de ce popularitatea Cloud Computing-ului crește an de an. Întreprinderile înțeleg avantajele Cloud Computing-ului și modul în care acestea afectează producția, colaborarea, securitatea și veniturile. O organizație poate evita multe dintre problemele care afectează întreprinderile care se bazează pe tehnologia locală prin utilizarea unei soluții bazate pe cloud.
 
 ## Descriere API
-#### Lyrics.ohv
+#### Lyrics.ohv API
 API-ul Lyrics.ohv permite cautarea versurilor unei melodii. Request-ul prin intermediul API-ului este facut printr-o functie fetch pe baza URL-ului si /suggest, pentru a sugera piese pe baza numele artistului sau a piesei introduse. 
 
 In continuare avem evenimentul care se declanseaza in momentul in care dam click pe butonul submit si incepe cautarea.
